@@ -1,0 +1,12 @@
+{
+  "name": "Scam Redirect for Roblox",
+  "description": "Instantly redirect Roblox scam websites",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {"scripts":["background.js"]},
+  "permissions": [
+    "webRequest",
+    "<all_urls>",
+    "webRequestBlocking"
+  ]
+}
