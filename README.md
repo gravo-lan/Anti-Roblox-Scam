@@ -6,7 +6,7 @@ Doesn't work on Opera for some reason
 
 1. Go to `chrome://extensions`
 2. Click 'load unpacked'
-3. Select `Anti Roblox Scam` in your file explorer
+3. Select `Roblox Scam Redirect` in your file explorer
 
 ## How to not get scammed as a 5 year old on your iPad
 
