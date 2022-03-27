@@ -8,7 +8,7 @@ Doesn't work on Opera for some reason
 2. Click 'load unpacked'
 3. Select `Roblox Scam Redirect` in your file explorer
 
-## How to not get scammed as a 5 year old on your iPad
+## How to not get scammed as a 8 year old on your iPad
 
 1. Don't click links unless you are certain it's www.roblox.com and not something similar
 2. Don't click links if they are surrounded with emojis
