@@ -3,7 +3,7 @@
   "description": "Instantly redirect Roblox scam websites",
   "version": "1.0",
   "manifest_version": 2,
-  "background": {"scripts":["background.js"]},
+  "background": {"scripts":["background.ts"]},
   "permissions": [
     "webRequest",
     "<all_urls>",
