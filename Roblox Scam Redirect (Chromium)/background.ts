@@ -1,5 +1,5 @@
 var host = "http://www.roblox.com";
-chrome.webRequest.onBeforeRequest.addListener(
+browser.webRequest.onBeforeRequest.addListener(
     function(details) {
          return {redirectUrl: host + details.url.match(/^https?:\/\/[^\/]+([\S\s]*)/)[1]};
     },
