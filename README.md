@@ -23,7 +23,7 @@ Some compatible browsers:
 - Torch
 - Comodo Dragon
 
-* Haven't tested on all of these browsers
+Haven't tested on all of these browsers
 
 ## How to not get scammed as a 8 year old on your iPad
 
