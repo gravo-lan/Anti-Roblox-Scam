@@ -1,6 +1,5 @@
 # Anti Roblox Scam
 A chromium extension for *certain* kids who get scammed by fake Roblox links.
-Doesn't work on Opera for some reason
 
 ## Installation
 
@@ -12,11 +11,12 @@ Doesn't work on Opera for some reason
 
 ###### Compatibility
 
-This should work on all Chromium based browsers, currently doesn't work on the Operas (incl. GX, Light)
+This should work on all Chromium based browsers
 Some compatible browsers:
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Edge*
+- Opera (including GX and Light)
 - Brave
 - Vivaldi
 - Epic
