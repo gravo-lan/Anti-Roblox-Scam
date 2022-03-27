@@ -1,12 +1,14 @@
 # Anti Roblox Scam
-A chrome extension for *certain* kids who get scammed by fake Roblox links.
+A chromium extension for *certain* kids who get scammed by fake Roblox links.
 Doesn't work on Opera for some reason
 
 ## Installation
 
-1. Go to `chrome://extensions`
-2. Click 'load unpacked'
-3. Select `Roblox Scam Redirect` in your file explorer
+1. Go to `[your-browser]://extensions`, for example, `chrome://extensions` or `edge://extensions`
+2. Turn on developer mode
+3. Click 'load unpacked'
+4. Select `Roblox Scam Redirect` in your file explorer
+5. Click select
 
 ## How to not get scammed as a 8 year old on your iPad
 
