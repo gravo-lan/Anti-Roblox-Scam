@@ -1,0 +1,1 @@
+IE extensions need to be compiled, so no ts/js which means I am not giving two craps about IE
