@@ -15,7 +15,8 @@ Doesn't work on Opera for some reason
 This should work on all Chromium based browsers, currently doesn't work on the Operas (incl. GX, Light)
 Some compatible browsers:
 - Google Chrome
-- Microsoft Edge
+- Mozilla Firefox
+- Microsoft Edge*
 - Brave
 - Vivaldi
 - Epic
@@ -25,8 +26,12 @@ Some compatible browsers:
 
 Haven't tested on all of these browsers
 
+\*If you use an older version of Edge, use the Mozilla release
+
 ## How to not get scammed as a 8 year old on your iPad
 
 1. Don't click links unless you are certain it's www.roblox.com and not something similar
-2. Don't click links if they are surrounded with emojis
-3. Don't play roblox
+2. Don't download things even if people say you will be rewarded (spoiler alert, you won't!)
+3. Don't fill out surveys (you **might** get robux from this at the expense of your personal info)
+4. Don't click links if they are surrounded with emojis or very suspicious
+5. Don't play roblox
