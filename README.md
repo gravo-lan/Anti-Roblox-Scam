@@ -27,7 +27,7 @@ Some compatible browsers:
 
 Haven't tested on all of these browsers
 
-\*If you use an older version of Edge, use the Mozilla release
+\*If you use an older version of Edge, use the Mozilla extension
 
 ## How to not get scammed as a 8 year old on your iPad
 
