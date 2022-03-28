@@ -8,7 +8,8 @@ const blackList = [
   "www.rbxpurple.com",
   "track.vcdc.com",
   "www.rovblox.com",
-  "www.roblox.ms"
+  "www.roblox.ms",
+  "www.roblox.com.mk"
 ];
 
 let url = "www.rovbloxs.com";
