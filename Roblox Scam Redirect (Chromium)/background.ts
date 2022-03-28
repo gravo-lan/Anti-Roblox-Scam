@@ -15,7 +15,7 @@ chrome.webRequest.onBeforeRequest.addListener(
             "*://track.vcdc.com/*",
             "*://www.rovblox.com/*",
             "*://www.roblox.ms/*",
-            "*://*.roblox.com.mk"
+            "*://*.roblox.com.mk/*"
         ],
         types: ["main_frame", "sub_frame", "stylesheet", "script", "image", "object", "xmlhttprequest", "other"]
     },
