@@ -1,1 +1,1 @@
-IE extensions need to be compiled, so no ts/js which means I am not giving two craps about IE
+IE extensions need to be compiled, so no easy way for me to convert my existing Chromium extension, which means I am not giving two craps about IE
