@@ -1,3 +1,12 @@
+// Define blacklist and whitelist
+const whitelist = [
+  "www.roblox.com", // Will add some code so it doesn't match for roblox.com.mk etc.
+  "www.web.roblox.com",
+  "www.education.roblox.com",
+  "www.ro-blox.com",
+  "www.rowblox.com"
+]
+
 const blackList = [
   "vvvvvv-roblox.com",
   "www.roblox.qq.com",
@@ -12,13 +21,14 @@ const blackList = [
   "www.roblox.com.mk"
 ];
 
+// The current URL
 let url = "www.rovbloxs.com";
-// The current url
 
-if (url.contains("roblox.com") != True) {
+// Check against blacklist
+if (url.contains("roblox.com")) {
   let i = 1;
   do {
-    if (url.contains(blackList[i]) = True) {
+    if (url.contains(blackList[i])) {
       let scam = True;
     }
     else {
@@ -29,4 +39,6 @@ if (url.contains("roblox.com") != True) {
 else {
   let scam = False;
 }
+
+// Todo: Add actions
 console.log(scam);
