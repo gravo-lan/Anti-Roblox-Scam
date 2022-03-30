@@ -1,5 +1,5 @@
 # Anti Roblox Scam
-A chromium extension for *certain* kids who get scammed by fake Roblox links.
+A browser extension for *certain* kids who get scammed by fake Roblox links.
 
 ## Installation
 
