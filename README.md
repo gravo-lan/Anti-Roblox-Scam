@@ -12,7 +12,7 @@ A browser extension for *certain* kids who get scammed by fake Roblox links.
 
 ###### Compatibility
 
-This should work on all Chromium based browsers
+This should work on all Chromium/Mozilla based browsers
 
 Some compatible browsers:
 - Google Chrome
